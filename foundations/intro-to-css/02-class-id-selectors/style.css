@@ -1,0 +1,21 @@
+.odd {
+    background-color: pink;
+    font-size: medium;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second-el {
+    color: blue;
+    font-size: 36px;
+}
+
+.bigger-font {
+    font-size: 24px;
+}
+
+#fourth-el {
+    background-color: rgb(53, 186, 53);
+    font-size: 24px;
+    font-weight: bold;
+    
+}
